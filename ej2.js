@@ -1,6 +1,6 @@
 let numero = 7;
 
-for (let contador = 1; contador <= 10; contador++) {
-  let resultado = numero * contador;
-  console.log(numero + " x " + contador + " = " + resultado);
+for (let i = 1; contador <= 10; i++) {
+  let resultado = numero * i;
+  console.log(numero + " x " + i + " = " + resultado);
 }
